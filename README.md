@@ -1,4 +1,4 @@
-# entropyCalculator
+# Entropy Calculator in Java
     What is an entropy ? It help to find out if something can be concidered random or not.
     Low entropy could be a compressed file and high entropy an obfuscated file like a malware or an encrypted files.
 
