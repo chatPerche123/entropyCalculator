@@ -23,3 +23,6 @@
     bytes and increment the result with the previous one:
 
        => entropy = entropy + value*italic
+
+![image](https://user-images.githubusercontent.com/58827656/130441459-0b2b0848-7959-46ff-a9bc-61d7d220d839.png)
+
