@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="entropyCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/entropyCalculator_jar</output-path>
+    <root id="archive" name="entropyCalculator.jar">
+      <element id="module-output" name="entropyCalculator" />
+    </root>
+  </artifact>
+</component>
